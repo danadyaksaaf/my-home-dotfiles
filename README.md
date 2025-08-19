@@ -1,6 +1,10 @@
 # my-home-dotfiles
 Some of the dotfiles that i use on my home directory like ZSH, etc.
 
+Depedencies that required:
+-ZSH
+-oh-my-zsh plugin
+
 Tested in:
 - Linux Mint 22.1 Xia (XFCE & Cinnmaon)
 - ZSH version 5.9
